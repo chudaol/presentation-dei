@@ -1,3 +1,6 @@
+.blue {
+    color: #0096D7;
+}
 .orange-background {
     background-color: rgba(246, 138, 0, 0.71);
 }
@@ -68,7 +71,7 @@
 .reveal section img.no-style-img {
     margin: 0;
     background: none;
-    border: none;
+    border: none!important;
     box-shadow: none;
 }
 .arrow-img {
